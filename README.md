@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on analytics and marketing apps
 - 📫 How to reach me ... shoot me a msg here
 - 😄 Pronouns: ...Man
-- ⚡ Fun fact: ... The Earth is Flat!
+- ⚡ Fun fact: ... The Earth is Flat! 😄
 
 <!---
 Wuzoobia/Wuzoobia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
