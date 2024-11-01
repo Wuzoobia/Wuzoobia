@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Wuzoobia
-- 👀 I’m interested in creating analytic and marketing apps, as well as Chrome extensions
+- 👀 I’m interested in creating analytic and marketing apps
 - 🌱 I’m currently learning AWS certification
 - 💞️ I’m looking to collaborate on analytics and marketing apps
 - 📫 How to reach me ... shoot me a msg here
-- 😄 Pronouns: ...Man
 - ⚡ Fun fact: ... The Earth is Flat! 😄
 
 <!---
