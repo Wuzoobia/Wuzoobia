@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wuzoobia
-- 👀 I’m interested in creating analytic and marketing apps
+- 👀 I’m interested in creating apps 
 - 🌱 I’m currently learning AWS certification
 - 💞️ I’m looking to collaborate on analytics and marketing apps
 - 📫 How to reach me ... shoot me a msg here
